@@ -1,3 +1,5 @@
-# Medium Cracker
+# Medium Read Limit Cracker
 
-As a part of my study, this web extension is created to override the Medium article reading limitation.
+As a part of my study about security, this web extension was created to override the [Medium][medium] read limit, 3 free member-only stories each month.
+
+[medium]: <https://medium.com/>
